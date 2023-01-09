@@ -16,4 +16,4 @@ try {
 }
 
 
-document.getElementById("update").innerHTML= new Date(document.lastModified)
+document.getElementById("update").innerHTML= new Date(document.lastModified);
